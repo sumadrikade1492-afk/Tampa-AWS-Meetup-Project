@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "event_name": "Automate High-Scale Performance Testing for Resilient Web Applications on AWS",
+    "event_date": "2026-03-15",
+    "start_time": "6:00 PM",
+    "end_time": "7:30 PM",
+    "location": {
+      "venue_name": "Online Session",
+      "city": "Tampa",
+      "state": "FL",
+      "address": "Link sent week of event"
+    },
+    "description": "Discover how to automate high-scale, multi-region performance testing on AWS using ECS Fargate, JMeter scripts, and monitoring strategies.",
+    "event_url": "https://www.meetup.com/tampa-bay-aws/events/302265154/"
+  },
+  {
+    "id": "2",
+    "event_name": "Introducing Amazon Q: The Future of GenAI Assistance",
+    "event_date": "2026-04-10",
+    "start_time": "6:00 PM",
+    "end_time": "7:30 PM",
+    "location": {
+      "venue_name": "iBasis Office",
+      "city": "Tampa",
+      "state": "FL",
+      "address": "123 Tech Park Lane"
+    },
+    "description": "Learn how Amazon Q uses foundation models and your organization's content to generate relevant, timely insights for your workflows.",
+    "event_url": "https://www.meetup.com/tampa-bay-aws/"
+  },
+  {
+    "id": "3",
+    "event_name": "Serverless Workshop: Lambda and API Gateway",
+    "event_date": "2026-05-20",
+    "start_time": "6:00 PM",
+    "end_time": "8:00 PM",
+    "location": {
+      "venue_name": "Tech Hub Tampa",
+      "city": "Tampa",
+      "state": "FL",
+      "address": "456 Innovation Drive"
+    },
+    "description": "Hands-on lab to build serverless applications with AWS Lambda and API Gateway. Learn best practices for production-ready APIs.",
+    "event_url": "https://www.meetup.com/tampa-bay-aws/"
+  },
+  {
+    "id": "4",
+    "event_name": "AWS Security Best Practices and Compliance",
+    "event_date": "2026-06-18",
+    "start_time": "6:00 PM",
+    "end_time": "7:30 PM",
+    "location": {
+      "venue_name": "Downtown Tampa Convention Center",
+      "city": "Tampa",
+      "state": "FL",
+      "address": "789 Main Street"
+    },
+    "description": "Deep dive into AWS security, IAM best practices, encryption, and compliance frameworks for enterprise deployments.",
+    "event_url": "https://www.meetup.com/tampa-bay-aws/"
+  }
+]
